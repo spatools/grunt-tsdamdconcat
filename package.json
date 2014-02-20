@@ -1,0 +1,40 @@
+{
+  "name": "grunt-tsdamdconcat",
+  "version": "0.1.0",
+  "description": "Create a single definition file from amd definitions",
+  "homepage": "https://github.com/spatools/grunt-tsdamdconcat",
+  "repository": "https://github.com/spatools/grunt-tsdamdconcat.git",
+  "bugs": "https://github.com/spatools/grunt-tsdamdconcat.gitissues",
+  "author": {
+    "name": "SPATools",
+    "email": "spa@somatic.fr",
+    "url": "https://github.com/spatools"
+  },
+  "keywords": [
+	"typescript",
+	"definitions",
+	"typings",
+	"concat",
+    "gruntplugin"
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt": ">=0.4.0",
+    "jshint-stylish": "~0.1.3",
+    "load-grunt-tasks": "~0.2.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
