@@ -1,3 +1,9 @@
-node_modules
+node_modules/
+tmp/
+
 npm-debug.log
-tmp
+
+*.dat
+*.sln
+*.suo
+*.njsproj
