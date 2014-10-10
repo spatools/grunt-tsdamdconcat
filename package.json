@@ -1,6 +1,6 @@
 {
   "name": "grunt-tsdamdconcat",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a single definition file from amd definitions",
   "homepage": "https://github.com/spatools/grunt-tsdamdconcat",
   "repository": "https://github.com/spatools/grunt-tsdamdconcat.git",

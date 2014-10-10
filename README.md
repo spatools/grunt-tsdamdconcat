@@ -96,6 +96,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 0.1.0 Initial Release
+0.1.1 Fix relative module paths imported inside modules
 
 ## License
 Copyright (c) 2014 SPATools. Licensed under the MIT license.
